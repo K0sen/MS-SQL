@@ -926,6 +926,9 @@ making sure that you maintain a proper JSON format.
 				"propertyType": "checkbox"
 			},
 			"comments"
-		]
+		],
+		"table": "string",
+		"___2": [],
+		"udt": "document"
 	}
 } 

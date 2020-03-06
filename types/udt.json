@@ -1,0 +1,19 @@
+{
+	"name": "udt",
+	"erdAbbreviation": "<udt>",
+	"dtdAbbreviation": "{...}",
+	"parentType": "document",
+	"defaultValues": {
+		"relationshipType": "",
+		"parentRelationship": "",
+		"childRelationships": [],
+		"foreignCollection": "",
+		"foreignField": [],
+		"properties": [],
+		"dependencies": [],
+		"minProperties": "",
+		"maxProperties": "",
+		"additionalProperties": false,
+		"enum": []
+	}
+}
