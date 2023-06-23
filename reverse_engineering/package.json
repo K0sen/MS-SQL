@@ -4,7 +4,7 @@
   "description": "",
   "author": "Hackolade",
   "dependencies": {
-    "mssql": "^3.3.0"
+    "mssql": "^9.1.1"
   },
   "installed": true
 }
